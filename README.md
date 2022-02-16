@@ -1,0 +1,2 @@
+# Python-and-RStudio-school-resources
+This repository serves to host the teaching and learning content developed by EDINA, the centre for digital expertise at the University of Edinburgh, in collaboration with Education Scotland to provide continuous learning materials for use with the Noteable service. This repository hosts and organises these materials by programming language and level within the Scottish curriculum. 
