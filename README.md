@@ -3,7 +3,7 @@ This repository serves to host the teaching and learning content developed by ED
 
 # Guides, workbooks and notebook Exemplars 
 
-This repository is for coding activities developed in Jupyter notebooks and RStudio using the Noteable platform (www.noteable.edina.ac.uk) for Scottish teachers and learners. These materials were developed between October and March 2022 and cover topics from the SQA curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. The content in these notebooks aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver curriculum topics involving the analysis of numbers, data or other types of information and programming elements at Scottish Qualifications Authority National Levels.
+This repository is for coding activities developed in Jupyter notebooks and RStudio using the Noteable platform (www.noteable.edina.ac.uk) for Scottish teachers and learners. These materials were developed between October and March 2022 and cover topics from the curriculum in Computing Science, Mathematics, Statistics and other fields involving data analysis. The content in these notebooks aims to provide support and learning materials for teachers to adopt and use the Noteable service across school in Scotland, to deliver curriculum topics involving the analysis of numbers, data or other types of information and programming elements at Scottish Qualifications Authority National Levels.
 
 This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across schools in Scotland and is supported by Education Scotland's Enhancing Prfoessional Learning in STEM Programme. 
 
